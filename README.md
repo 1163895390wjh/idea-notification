@@ -15,3 +15,4 @@
 
 关于第二个功能：
 想把VS Code的一个插件功能移植过来，因为在webstorm上暂时没找到对应的插件，当你在一个单引号或者双引号的字符串中输入${时，会自动把字符串两头的单引号或双引号转为反引号\`
+VSCode 插件：https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter
